@@ -1,0 +1,10 @@
+C:\Users\Israilla\source\repos\Working_with_files\Exercise02 (demo 2)\Exercise02 (demo 2)\bin\Debug\netcoreapp3.1\Exercise02 (demo 2).exe
+C:\Users\Israilla\source\repos\Working_with_files\Exercise02 (demo 2)\Exercise02 (demo 2)\bin\Debug\netcoreapp3.1\Exercise02 (demo 2).deps.json
+C:\Users\Israilla\source\repos\Working_with_files\Exercise02 (demo 2)\Exercise02 (demo 2)\bin\Debug\netcoreapp3.1\Exercise02 (demo 2).runtimeconfig.json
+C:\Users\Israilla\source\repos\Working_with_files\Exercise02 (demo 2)\Exercise02 (demo 2)\bin\Debug\netcoreapp3.1\Exercise02 (demo 2).runtimeconfig.dev.json
+C:\Users\Israilla\source\repos\Working_with_files\Exercise02 (demo 2)\Exercise02 (demo 2)\bin\Debug\netcoreapp3.1\Exercise02 (demo 2).dll
+C:\Users\Israilla\source\repos\Working_with_files\Exercise02 (demo 2)\Exercise02 (demo 2)\bin\Debug\netcoreapp3.1\Exercise02 (demo 2).pdb
+C:\Users\Israilla\source\repos\Working_with_files\Exercise02 (demo 2)\Exercise02 (demo 2)\obj\Debug\netcoreapp3.1\Exercise02 (demo 2).AssemblyInfoInputs.cache
+C:\Users\Israilla\source\repos\Working_with_files\Exercise02 (demo 2)\Exercise02 (demo 2)\obj\Debug\netcoreapp3.1\Exercise02 (demo 2).AssemblyInfo.cs
+C:\Users\Israilla\source\repos\Working_with_files\Exercise02 (demo 2)\Exercise02 (demo 2)\obj\Debug\netcoreapp3.1\Exercise02 (demo 2).dll
+C:\Users\Israilla\source\repos\Working_with_files\Exercise02 (demo 2)\Exercise02 (demo 2)\obj\Debug\netcoreapp3.1\Exercise02 (demo 2).pdb
