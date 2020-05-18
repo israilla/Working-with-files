@@ -1,0 +1,13 @@
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\bin\Debug\netcoreapp3.1\Exercise07.exe
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\bin\Debug\netcoreapp3.1\Exercise07.deps.json
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\bin\Debug\netcoreapp3.1\Exercise07.runtimeconfig.json
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\bin\Debug\netcoreapp3.1\Exercise07.runtimeconfig.dev.json
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\bin\Debug\netcoreapp3.1\Exercise07.dll
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\bin\Debug\netcoreapp3.1\Exercise07.pdb
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\obj\Debug\netcoreapp3.1\Exercise07.csprojAssemblyReference.cache
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\obj\Debug\netcoreapp3.1\Exercise07.csproj.CoreCompileInputs.cache
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\obj\Debug\netcoreapp3.1\Exercise07.AssemblyInfoInputs.cache
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\obj\Debug\netcoreapp3.1\Exercise07.AssemblyInfo.cs
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\obj\Debug\netcoreapp3.1\Exercise07.dll
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\obj\Debug\netcoreapp3.1\Exercise07.pdb
+C:\Users\Israilla\source\repos_CSHARP_avançado\Working_with_files\Exercise07\Exercise07\obj\Debug\netcoreapp3.1\Exercise07.genruntimeconfig.cache
